@@ -36,5 +36,5 @@
 
 <div align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sharifhasani&show_icons=true&theme=onedark&count_private=true" >
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifhasani&hide=html&layout=compact&theme=highcontrast" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifhasani&hide=html&layout=compact&theme=onedark" />
 </div>
