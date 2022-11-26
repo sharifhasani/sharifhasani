@@ -18,7 +18,7 @@
 [4]: https://telegram.me/sharif__hasani
 
 <br>
-<h2>My Skills</h2>
+<h2>Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,11 +31,10 @@
   </a>
 </p>
 
-<!---
-sharifhasani/sharifhasani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+<h2>Git statistics</h2>
+
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sharifhasani&show_icons=true&theme=highcontrast" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sharifhasani&show_icons=true&theme=onedark&count_private=true" >
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifhasani&hide=html&layout=compact&theme=highcontrast" />
- </div>
+</div>
