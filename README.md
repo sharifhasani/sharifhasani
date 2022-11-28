@@ -15,7 +15,7 @@
 [1]: https://twitter.com/Sharif__Hasani
 [2]: https://www.linkedin.com/in/sharif-hasani-879bb21b1
 [3]: https://www.instagram.com/sharif__hasani
-[4]: https://telegram.me/sharif__hasani
+[4]: https://telegram.me/sharif_hasani
 
 <br>
 <h2>Skills</h2>
