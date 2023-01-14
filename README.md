@@ -33,11 +33,11 @@
 
 
 <br>
-<!-- <h2>Git statistics</h2>
+<h2>Git statistics</h2>
 
 <div align="center">
 
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sharifhasani&count_private=true&theme=onedark" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifhasani&hide=html,css&theme=onedark" />
-</div> -->
+</div>
 
