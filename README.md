@@ -33,7 +33,7 @@
 
 
 <br>
-<h2>Git statistics</h2>
+<h2>Github stats</h2>
 
 <div align="center">
 
