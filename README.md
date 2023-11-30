@@ -1,6 +1,6 @@
 ## :man_technologist: I'm Sharif Hasani and I'm interested in programming :)
 
-- 🌱 I’m currently learning ASP.NET Core, python, Django, Machine Learning, AI
+- 🌱 I’m currently learning Python, Django, Machine Learning, AI
 
 <br>
 <h2>Social Networks</h2>
